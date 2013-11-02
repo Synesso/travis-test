@@ -1,0 +1,3 @@
+<project name="foo">
+  <target name="test"><echo>bar</echo></target>
+</project>
