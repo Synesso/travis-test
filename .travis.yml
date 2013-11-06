@@ -4,8 +4,3 @@ jdk:
 before_install:
  - sudo apt-get update -qq
  - sudo apt-get install -qq apache2 php5-mysql libapache2-mod-php5 mysql-server
-addons:
-  source_connect:
-    username: synesso
-    secure: "SfCi40rNIGFToa+6x9iOEQp5OsxSuDav6sliCMNv4933FnX8wz+NtNnSRXLjD+UDA2lYr2eeEn9DgjC9AIXOALXR/UXMPr9v6w3jshVIDXPR81/ehVvqNOEdq0XcjTXRHAoaRidzQMym6eYNzmN7ZHNYCRX8dLF1b6yXU732w1E="
-
