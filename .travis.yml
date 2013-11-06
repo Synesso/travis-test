@@ -2,7 +2,6 @@ language: java
 jdk:
  - oraclejdk7
 before_install:
- - gradle --version
  - sudo apt-get update -qq
  - sudo apt-get install -qq apache2 php5-mysql libapache2-mod-php5 mysql-server
 addons:
